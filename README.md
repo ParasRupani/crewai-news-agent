@@ -73,7 +73,7 @@ The project implements multiple AI agents for real-world use cases using Crew AI
    ```sh
    pip install -r requirements.txt
    ```
-3. Execute `crew.py` using streamlit
+3. Execute `crew.py` using python
    ```sh
    python crew.py
    ```
